@@ -1,4 +1,4 @@
-### Olá! Eu sou o Harry 👋 Bem Vindo ao meu GitHub!
+### Olá! Eu sou o Harry 👋 
 
 ### Contato
 
