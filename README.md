@@ -1,4 +1,4 @@
-### Olá! Eu sou o Harry 👋 Muito Bem vindo(a) 
+### Olá! Eu sou o Harry 👋 
 
 ### Contato
 
