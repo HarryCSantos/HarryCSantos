@@ -18,5 +18,4 @@
 
 ### Entusiasta por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-### <small><strong>Email: </strong>
-    <a href="mailto:harry.santos@aluno.faculdadeimpacta.com.br>">
+<a href="mailto:harry.santos@aluno.faculdadeimpacta.com.br>">harry.santos@aluno.faculdadeimpacta.com.br</a>
