@@ -18,4 +18,5 @@
 
 ### Entusiasta por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-### Email: harryconceicao@outlook.com
+### <small><strong>Email: </strong>
+    <a href="mailto:harry.santos@aluno.faculdadeimpacta.com.br>">
